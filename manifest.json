@@ -1,27 +1,27 @@
 {
-  "builtAt" : "2026-07-22T06:26:11Z",
+  "builtAt" : "2026-07-25T06:15:04Z",
   "shards" : [
     {
       "displayName" : "Ads (EasyList)",
       "name" : "ads",
-      "ruleCount" : 64101,
-      "sha256" : "3150b75fccc088c9d7a2641719efd073c8dc83cb24705324e4e8ad9736181268",
-      "url" : "20260722062609\/ads.json"
+      "ruleCount" : 64913,
+      "sha256" : "782563558a9e3d88e9c67bd635a3cb372e8dd08c245653aa4ac768cc7598f1ad",
+      "url" : "20260725061502\/ads.json"
     },
     {
       "displayName" : "Trackers (EasyPrivacy)",
       "name" : "privacy",
-      "ruleCount" : 55570,
-      "sha256" : "762e21f2b64915fe15f9dd146f88f6b82fba0eb7d8197828a1e2513d6a4ffd58",
-      "url" : "20260722062609\/privacy.json"
+      "ruleCount" : 55586,
+      "sha256" : "b6fd2519ea6dc914f5391fab3c83bbcd2755e369383cf252e4512d91440840a0",
+      "url" : "20260725061502\/privacy.json"
     },
     {
       "displayName" : "Cookie Banners (EasyList Cookie)",
       "name" : "annoyances",
-      "ruleCount" : 9141,
-      "sha256" : "302d05c177dc1054b467c185f6c7d93b310d4b582f5fe37e0e1ca8f1b0e7bc45",
-      "url" : "20260722062609\/annoyances.json"
+      "ruleCount" : 9150,
+      "sha256" : "d45936fbbd32bb42d95e072d458a801432d5bd6bae8c4c047c0f0acd6e838552",
+      "url" : "20260725061502\/annoyances.json"
     }
   ],
-  "version" : "20260722062609"
+  "version" : "20260725061502"
 }
