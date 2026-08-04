@@ -1,8 +1,8 @@
 {
-  "bitCount" : 2038176,
-  "domainCount" : 106320,
+  "bitCount" : 2052536,
+  "domainCount" : 107069,
   "hashCount" : 13,
   "murmurSeed" : 1364542796,
-  "tag" : "8f310ef0e5ebe85b0e42b760591f36150cb244e896b4587121c8366eb35c58f4",
-  "url" : "20260801062628\/prefilter.bin"
+  "tag" : "05a6946317519dd45533f5d0c398d319f20a9361acf1813ba9956821a4c55d79",
+  "url" : "20260804062504\/prefilter.bin"
 }
